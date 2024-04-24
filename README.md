@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </div> 
  
  <!-- gráfico das contribuições --> 
-[(https://activity-graph.herokuapp.com/graph?username=rainasouza_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rainasouza)](https://github.com/rainasouza/github-readme-activity-graph)
 
 
 <!-- badges, com trofeu --> 
