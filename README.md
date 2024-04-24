@@ -26,32 +26,18 @@
   <a href="https://www.linkedin.com/in/raína-araújo-6201bb2a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
  
- <!-- ![Snake animation](https://github.com/lilianhteixeira/lilianhteixeira/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
 
+- 🔭 I’m currently working on a website to help adopt homeless animals
+- 🌱 I’m currently learning python!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm polyglot! Currently learning Italian, but I already speak Spanish, English and Portuguese.
 
-
-<!--
-**rainasouza/rainasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
- 
  <!-- Barra superior e inferior --> 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7FFFD4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Raína+Araújo;I'm+18+years+old;I'm+from+Brazil;I'm+graduating+in+computer's+science;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raína+Araújo;I'm+18+years+old;I'm+from+Brazil;Feel+free+to+contact+me!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
  <!-- Abaixo, duas imagens com informações do repositório A+ e etc. -->
 <div align="center">  
