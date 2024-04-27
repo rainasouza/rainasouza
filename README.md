@@ -1,6 +1,5 @@
 
-# Raína Souza
-## Welcome to my readme file! &#128512;&#128150;&#127804;
+# <div align="center"> &#128512;&#128150;&#127804;</div>
 
 <div align="center">
   
