@@ -1,11 +1,12 @@
 
+# Raína Souza
+## Welcome to my readme file! &#128512;&#128150;&#127804;
 
-## 
 <div align="center">
   
   <a href="https://github.com/rainasouza"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rainasouza&theme=dracula&hide=contribs,prs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainasouza&layout=compact&langs_count=7&theme=dracula"/>
+<img  height="195px"  src="https://github-readme-stats.vercel.app/api?username=rainasouza&theme=dracula&hide=contribs,prs"/>
+  <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainasouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -30,42 +31,23 @@
  
 </div>
 
-- 🔭 I’m currently working on a website to help adopt homeless animals
-- 🌱 I’m currently learning python!
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm polyglot! Currently learning Italian, but I already speak Spanish, English and Portuguese.
+- ## 🔭 I’m currently working on a website to help adopt homeless animals
+- ## 🌱 I’m currently learning python!
+- ## 😄 Pronouns: she/her
+- ## ⚡ Fun fact: I'm polyglot! Currently learning Italian, but I already speak Spanish, English and Portuguese.
 
- <!-- Barra superior e inferior --> 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7FFFD4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raína+Araújo;I'm+18+years+old;I'm+from+Brazil;Feel+free+to+contact+me!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
- <!-- Abaixo, duas imagens com informações do repositório A+ e etc. -->
-<div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rainasouza&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Raína Araújo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainasouza&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> 
-</div> 
+
+
  
- <!-- gráfico das contribuições --> 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rainasouza)](https://github.com/rainasouza/github-readme-activity-graph)
 
 
-<!-- badges, com trofeu --> 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rainasouza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> 
-
- 
- 
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rainasouza}/count.svg" /></p> 
-<br>
-</div> 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/> 
 
 
