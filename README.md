@@ -35,7 +35,7 @@
 - ## 😄 Pronouns: she/her
 - ## ⚡ Fun fact: I'm polyglot! Currently learning Italian, but I already speak Spanish, English and Portuguese.
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#7FFFD4&height=120&section=header"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raína+Araújo;I'm+18+years+old;I'm+from+Brazil;Feel+free+to+contact+me!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
