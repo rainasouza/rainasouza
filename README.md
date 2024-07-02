@@ -32,7 +32,7 @@
 
 - ## 🔭 I’m currently working on a website to help adopt homeless animals
 - ## 🌱 I’m currently learning python!
-- ## 😄 Pronouns: she/her
+
 - ## ⚡ Fun fact: I'm polyglot! Currently learning Italian, but I already speak Spanish, English and Portuguese.
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
