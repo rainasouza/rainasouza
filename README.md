@@ -30,10 +30,10 @@
  
 </div>
 
-- ## 🔭 I’m currently working on a website to help adopt homeless animals
-- ## 🌱 I’m currently learning python!
+- ## 🔭 Currently working on a website aimed at facilitating the adoption of homeless animals.
+- ## 🌱 Learning Go!
 
-- ## ⚡ Fun fact: I'm polyglot! Currently learning Italian, but I already speak Spanish, English and Portuguese.
+- ## ⚡ Fun fact: I'm polyglot! Currently learning Italian, but I already speak English and Portuguese.
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
@@ -43,16 +43,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rainasouza)](https://github.com/rainasouza/github-readme-activity-graph)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rainasouza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rainasouza}/count.svg" /></p> 
-<br>
-  
-</div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/> 
 
