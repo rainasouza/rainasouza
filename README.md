@@ -4,7 +4,6 @@
 <div align="center">
 
 <a href="#about"><img src="https://img.shields.io/badge/🌸_about-FFC8DD?style=flat-square"/></a>
-<a href="#oca"><img src="https://img.shields.io/badge/🌵_at_OCA-FFDAC1?style=flat-square"/></a>
 <a href="#stack"><img src="https://img.shields.io/badge/🧁_stack-E4C1F9?style=flat-square"/></a>
 <a href="#projects"><img src="https://img.shields.io/badge/🐾_projects-BDE0FE?style=flat-square"/></a>
 <a href="#stats"><img src="https://img.shields.io/badge/📊_stats-B5EAD7?style=flat-square"/></a>
@@ -60,20 +59,6 @@ loves:
 | 📚 | I'm tracking my books in Go — [meus-livros](https://github.com/rainasouza/meus-livros) |
 
 </details>
-
-<a name="oca"></a>
-## 🌵 Currently at OCA
-
-The **Observatório da Caatinga** has spent fifteen years bringing research together to evaluate the environmental services provided by the Caatinga. I'm part of the team building **Data Nordeste**, where public data about the Brazilian Northeast becomes maps, indicators and reports anyone can explore.
-
-<div align="center">
-  <a href="https://github.com/OCA-UFCG/data-nordeste-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OCA-UFCG&repo=data-nordeste-frontend&bg_color=FFF8F2&title_color=C9705A&text_color=8A6A7E&icon_color=F4A99A&border_color=FFDAC1&border_radius=12" alt="data-nordeste-frontend"/>
-  </a>
-  <br/>
-  <a href="https://datanordeste.sudene.gov.br"><img src="https://img.shields.io/badge/🌐_visit_Data_Nordeste-FFDAC1?style=for-the-badge"/></a>
-  <a href="https://github.com/OCA-UFCG"><img src="https://img.shields.io/badge/🌵_OCA_on_GitHub-FFDAC1?style=for-the-badge"/></a>
-</div>
 
 <a name="stack"></a>
 ## 🧁 Tech Stack
