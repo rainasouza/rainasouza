@@ -1,5 +1,5 @@
 <!-- header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:FFC8DD,50:E4C1F9,100:BDE0FE&height=220&section=header&text=Ra%C3%ADna%20Souza&fontSize=56&fontColor=9D4E7A&fontAlignY=42&desc=Software%20Engineer%20%40%20OCA%20%E2%80%A2%20CS%20%40%20UFCG&descSize=18&descAlignY=64&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFC8DD,50:E4C1F9,100:BDE0FE&height=180&section=header&text=Ra%C3%ADna%20Souza&fontSize=54&fontColor=7A2E58&fontAlignY=42&desc=Software%20Engineer%20%40%20OCA%20%E2%80%A2%20CS%20%40%20UFCG&descSize=18&descAlignY=66&descAlign=50&animation=fadeIn"/>
 
 <div align="center">
 
@@ -12,6 +12,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=D16BA5&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ra%C3%ADna!+%F0%9F%8C%B7;Turning+code+into+social+impact+%F0%9F%92%9C;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG"/>
 </a>
+<br/>
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frainasouza&label=profile%20views&labelColor=%23FFF5F9&countColor=%23F49AC1&style=flat-square&labelStyle=lower" alt="profile views"/>
 <a href="https://github.com/rainasouza?tab=followers"><img src="https://img.shields.io/github/followers/rainasouza?label=followers&style=flat-square&color=E4C1F9&labelColor=FFF5F9" alt="followers"/></a>
@@ -80,10 +81,10 @@ Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazi
 
 <div align="center">
   <a href="https://github.com/rainasouza/meus-livros">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=meus-livros&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12" alt="meus-livros"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=meus-livros&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="meus-livros"/>
   </a>
   <a href="https://github.com/rainasouza/Formula-One">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=Formula-One&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12" alt="Formula-One"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=Formula-One&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="Formula-One"/>
   </a>
 </div>
 
@@ -93,16 +94,16 @@ Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazi
 
 <div align="center">
   <a href="https://github.com/rainasouza/zoonation_frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=zoonation_frontend&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12" alt="zoonation"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=zoonation_frontend&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="zoonation"/>
   </a>
   <a href="https://github.com/rainasouza/Wood-Life-Knight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=Wood-Life-Knight&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12" alt="Wood-Life-Knight"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=Wood-Life-Knight&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="Wood-Life-Knight"/>
   </a>
   <a href="https://github.com/rainasouza/brag-document-2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=brag-document-2026&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12" alt="brag-document-2026"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=brag-document-2026&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="brag-document-2026"/>
   </a>
   <a href="https://github.com/rainasouza/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=portfolio&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12" alt="portfolio"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=portfolio&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="portfolio"/>
   </a>
 </div>
 
@@ -116,8 +117,8 @@ Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazi
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rainasouza&show_icons=true&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&hide=stars" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainasouza&layout=compact&langs_count=6&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&border_color=FFC8DD&border_radius=12" alt="Top languages"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rainasouza&show_icons=true&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&hide=stars&card_width=400" alt="GitHub stats"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainasouza&layout=compact&langs_count=6&card_width=400&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&border_color=FFC8DD&border_radius=12" alt="Top languages"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=rainasouza&background=FFF5F9&border=FFC8DD&stroke=FFC8DD&ring=F49AC1&fire=FFAFCC&currStreakNum=D16BA5&sideNums=D16BA5&currStreakLabel=D16BA5&sideLabels=8A6A7E&dates=B79AAE&border_radius=12" alt="GitHub streak"/>
 </div>
