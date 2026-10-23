@@ -10,7 +10,7 @@
 <a href="#contact"><img src="https://img.shields.io/badge/💌_contact-FFAFCC?style=flat-square"/></a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=D16BA5&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ra%C3%ADna!+%F0%9F%8C%B7;Building+open+data+for+the+Northeast+%F0%9F%8C%B5;Turning+code+into+social+impact+%F0%9F%92%9C;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=D16BA5&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ra%C3%ADna!+%F0%9F%8C%B7;Turning+code+into+social+impact+%F0%9F%92%9C;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frainasouza&label=profile%20views&labelColor=%23FFF5F9&countColor=%23F49AC1&style=flat-square&labelStyle=lower" alt="profile views"/>
