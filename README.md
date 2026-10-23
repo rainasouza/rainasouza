@@ -55,7 +55,7 @@ loves:
 | | |
 |---|---|
 | 🏎️ | I built a [Formula One website](https://github.com/rainasouza/Formula-One) with React |
-| 🐾 | I helped build [ZooNation](https://github.com/rainasouza/zoonation_frontend), a website to help homeless animals find a home |
+| 🐾 | I build [ZooNation](https://github.com/rainasouza/zoonation_frontend), a website to help homeless animals find a home |
 | 🎮 | I've made a game in Godot — [Wood Life Knight](https://github.com/rainasouza/Wood-Life-Knight) |
 | 📚 | I'm tracking my books in Go — [meus-livros](https://github.com/rainasouza/meus-livros) |
 
