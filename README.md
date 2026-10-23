@@ -21,10 +21,6 @@
 <a name="about"></a>
 ## 🌸 About me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazil 🇧🇷** and a Computer Science student at **UFCG**.
 
 - 🌵 I work at the **[OCA — Observatório da Caatinga](https://github.com/OCA-UFCG)** (LSD/UFCG)
@@ -32,20 +28,12 @@ Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazi
 - 🌱 Currently learning **Go**
 - 💜 I care about technology for social good
 
-</td>
-<td width="40%" valign="top">
-
-```yaml
-loves:
-  - 💻 purposeful code
-  - 🐱 animal welfare
-  - 🎨 creative problem solving
-  - 🏎️ Formula One
-```
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/💻_purposeful_code-FFC8DD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🐱_animal_welfare-FFDAC1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🎨_creative_problem_solving-E4C1F9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🏎️_Formula_One-BDE0FE?style=flat-square"/>
+</p>
 
 <details>
 <summary><b>🎀 Click for some fun facts</b></summary>
@@ -128,8 +116,8 @@ loves:
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rainasouza&show_icons=true&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&hide=stars" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainasouza&layout=compact&langs_count=6&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&border_color=FFC8DD&border_radius=12" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rainasouza&show_icons=true&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&hide=stars" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainasouza&layout=compact&langs_count=6&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&border_color=FFC8DD&border_radius=12" alt="Top languages"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=rainasouza&background=FFF5F9&border=FFC8DD&stroke=FFC8DD&ring=F49AC1&fire=FFAFCC&currStreakNum=D16BA5&sideNums=D16BA5&currStreakLabel=D16BA5&sideLabels=8A6A7E&dates=B79AAE&border_radius=12" alt="GitHub streak"/>
 </div>
