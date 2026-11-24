@@ -1,20 +1,21 @@
 <!-- header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:FFC8DD,50:E4C1F9,100:BDE0FE&height=180&section=header&text=Ra%C3%ADna%20Souza&fontSize=54&fontColor=7A2E58&fontAlignY=42&desc=Software%20Engineer%20%40%20LSD%20%E2%80%A2%20CS%20%40%20UFCG&descSize=18&descAlignY=66&descAlign=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE4EF,50:F7E1F3,100:EEE3FC&height=150&section=header&text=Ra%C3%ADna%20Souza&fontSize=40&fontColor=A0527F&fontAlignY=36&desc=Software%20Engineer%20%40%20LSD%20%E2%80%A2%20CS%20%40%20UFCG&descSize=15&descAlignY=56&descAlign=50&animation=fadeIn"/>
+<p align="center"><img width="100%" src="assets/flower-garland.svg" alt=""/></p>
 
 <div align="center">
 
 <a href="#about"><img src="https://img.shields.io/badge/🌸_about-FFC8DD?style=flat-square"/></a>
 <a href="#stack"><img src="https://img.shields.io/badge/🧁_stack-E4C1F9?style=flat-square"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/🐾_projects-BDE0FE?style=flat-square"/></a>
-<a href="#stats"><img src="https://img.shields.io/badge/📊_stats-B5EAD7?style=flat-square"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/🐾_projects-D9C2F0?style=flat-square"/></a>
+<a href="#stats"><img src="https://img.shields.io/badge/📊_stats-F1C0E8?style=flat-square"/></a>
 <a href="#contact"><img src="https://img.shields.io/badge/💌_contact-FFAFCC?style=flat-square"/></a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=D16BA5&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ra%C3%ADna!+%F0%9F%8C%B7;Turning+code+into+social+impact+%F0%9F%92%9C;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=B45FA8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ra%C3%ADna!+%F0%9F%8C%B7;Turning+code+into+social+impact+%F0%9F%92%9C;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 <br/>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frainasouza&label=profile%20views&labelColor=%23FFF5F9&countColor=%23F49AC1&style=flat-square&labelStyle=lower" alt="profile views"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frainasouza&label=profile%20views&labelColor=%23FFF5F9&countColor=%23C9A7EB&style=flat-square&labelStyle=lower" alt="profile views"/>
 <a href="https://github.com/rainasouza?tab=followers"><img src="https://img.shields.io/github/followers/rainasouza?label=followers&style=flat-square&color=E4C1F9&labelColor=FFF5F9" alt="followers"/></a>
 
 </div>
@@ -31,9 +32,9 @@ Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazi
 
 <p>
   <img src="https://img.shields.io/badge/💻_purposeful_code-FFC8DD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🐱_animal_welfare-FFDAC1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🐱_animal_welfare-F8D7EC?style=flat-square"/>
   <img src="https://img.shields.io/badge/🎨_creative_problem_solving-E4C1F9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🏎️_Formula_One-BDE0FE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🏎️_Formula_One-D9C2F0?style=flat-square"/>
 </p>
 
 <details>
@@ -48,6 +49,8 @@ Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazi
 | 📚 | I'm tracking my books in Go — [meus-livros](https://github.com/rainasouza/meus-livros) |
 
 </details>
+
+<p align="center"><img width="85%" src="assets/flower-divider.svg" alt=""/></p>
 
 <a name="stack"></a>
 ## 🧁 Tech Stack
@@ -66,25 +69,27 @@ Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazi
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E4C1F9?style=for-the-badge&logo=html5&logoColor=7B4E9D"/></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-E4C1F9?style=for-the-badge&logo=css&logoColor=7B4E9D"/></a>
 <br/>
-<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-BDE0FE?style=for-the-badge&logo=nodedotjs&logoColor=4E6E9D"/></a>
-<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-BDE0FE?style=for-the-badge&logo=docker&logoColor=4E6E9D"/></a>
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-BDE0FE?style=for-the-badge&logo=git&logoColor=4E6E9D"/></a>
-<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-BDE0FE?style=for-the-badge&logo=github&logoColor=4E6E9D"/></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-BDE0FE?style=for-the-badge"/></a>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-D9C2F0?style=for-the-badge&logo=nodedotjs&logoColor=6B4E8A"/></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-D9C2F0?style=for-the-badge&logo=docker&logoColor=6B4E8A"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-D9C2F0?style=for-the-badge&logo=git&logoColor=6B4E8A"/></a>
+<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-D9C2F0?style=for-the-badge&logo=github&logoColor=6B4E8A"/></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-D9C2F0?style=for-the-badge"/></a>
 
 <sub><i>✨ every badge is a link — click to explore</i></sub>
 
 </div>
+
+<p align="center"><img width="85%" src="assets/flower-divider.svg" alt=""/></p>
 
 <a name="projects"></a>
 ## 🐾 Personal Projects
 
 <div align="center">
   <a href="https://github.com/rainasouza/meus-livros">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=meus-livros&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="meus-livros"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=meus-livros&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=B98BDB&border_color=E4C1F9&border_radius=12&description_lines_count=2" alt="meus-livros"/>
   </a>
   <a href="https://github.com/rainasouza/Formula-One">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=Formula-One&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="Formula-One"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=Formula-One&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=B98BDB&border_color=E4C1F9&border_radius=12&description_lines_count=2" alt="Formula-One"/>
   </a>
 </div>
 
@@ -94,20 +99,22 @@ Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazi
 
 <div align="center">
   <a href="https://github.com/rainasouza/zoonation_frontend">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=zoonation_frontend&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="zoonation"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=zoonation_frontend&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=B98BDB&border_color=E4C1F9&border_radius=12&description_lines_count=2" alt="zoonation"/>
   </a>
   <a href="https://github.com/rainasouza/Wood-Life-Knight">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=Wood-Life-Knight&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="Wood-Life-Knight"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=Wood-Life-Knight&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=B98BDB&border_color=E4C1F9&border_radius=12&description_lines_count=2" alt="Wood-Life-Knight"/>
   </a>
   <a href="https://github.com/rainasouza/brag-document-2026">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=brag-document-2026&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="brag-document-2026"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=brag-document-2026&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=B98BDB&border_color=E4C1F9&border_radius=12&description_lines_count=2" alt="brag-document-2026"/>
   </a>
   <a href="https://github.com/rainasouza/portfolio">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=portfolio&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&description_lines_count=2" alt="portfolio"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=rainasouza&repo=portfolio&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=B98BDB&border_color=E4C1F9&border_radius=12&description_lines_count=2" alt="portfolio"/>
   </a>
 </div>
 
 </details>
+
+<p align="center"><img width="85%" src="assets/flower-divider.svg" alt=""/></p>
 
 <a name="stats"></a>
 ## 📊 GitHub Stats
@@ -117,10 +124,10 @@ Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazi
 <br/>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rainasouza&show_icons=true&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=F49AC1&border_color=FFC8DD&border_radius=12&hide=stars&card_width=400" alt="GitHub stats"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainasouza&layout=compact&langs_count=6&card_width=400&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&border_color=FFC8DD&border_radius=12" alt="Top languages"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=rainasouza&show_icons=true&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&icon_color=B98BDB&border_color=E4C1F9&border_radius=12&hide=stars&card_width=400" alt="GitHub stats"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainasouza&layout=compact&langs_count=6&card_width=400&bg_color=FFF5F9&title_color=D16BA5&text_color=8A6A7E&border_color=E4C1F9&border_radius=12" alt="Top languages"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=rainasouza&background=FFF5F9&border=FFC8DD&stroke=FFC8DD&ring=F49AC1&fire=FFAFCC&currStreakNum=D16BA5&sideNums=D16BA5&currStreakLabel=D16BA5&sideLabels=8A6A7E&dates=B79AAE&border_radius=12" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=rainasouza&background=FFF5F9&border=E4C1F9&stroke=E4C1F9&ring=C9A7EB&fire=FFAFCC&currStreakNum=D16BA5&sideNums=D16BA5&currStreakLabel=D16BA5&sideLabels=8A6A7E&dates=B79AAE&border_radius=12" alt="GitHub streak"/>
 </div>
 
 </details>
@@ -132,13 +139,15 @@ Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazi
   </picture>
 </div>
 
+<p align="center"><img width="85%" src="assets/flower-divider.svg" alt=""/></p>
+
 <a name="contact"></a>
 ## 💌 Let's connect
 
 <div align="center">
   <a href="https://instagram.com/s2raina" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFAFCC?style=for-the-badge&logo=instagram&logoColor=9D4E7A"/></a>
-  <a href="mailto:raiina.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFDAC1?style=for-the-badge&logo=gmail&logoColor=9D5E4E"/></a>
-  <a href="https://www.linkedin.com/in/ra%C3%ADna-ara%C3%BAjo-6201bb2a8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-BDE0FE?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzRFNkU5RCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B"/></a>
+  <a href="mailto:raiina.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8D7EC?style=for-the-badge&logo=gmail&logoColor=9D4E7A"/></a>
+  <a href="https://www.linkedin.com/in/ra%C3%ADna-ara%C3%BAjo-6201bb2a8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-D9C2F0?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzZCNEU4QSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B"/></a>
 
 <br/><br/>
 
@@ -147,5 +156,7 @@ Hi! I'm **Raína**, a 20-year-old Software Engineer from **Campina Grande, Brazi
   <sub><i>Feel free to reach out — I'm always open to collaborating on projects!</i></sub>
 </div>
 
+
+<p align="center"><img width="100%" src="assets/flower-garland.svg" alt=""/></p>
 <!-- footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BDE0FE,50:E4C1F9,100:FFC8DD&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEE3FC,50:F7E1F3,100:FFE4EF&height=90&section=footer"/>
